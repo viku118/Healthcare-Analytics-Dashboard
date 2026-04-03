@@ -2,8 +2,6 @@
 Power BI dashboard analyzing hospital performance, revenue and patient trends
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ![Dashboard](Screenshot 2026-04-03 161453.png)
 
 ![Dashboard](Screenshot 2026-04-03 161503.png)
